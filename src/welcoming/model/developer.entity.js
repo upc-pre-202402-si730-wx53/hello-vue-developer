@@ -1,4 +1,4 @@
-class Developer{
+export class Developer{
     firstName;
     lastName;
 
